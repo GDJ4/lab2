@@ -1,5 +1,5 @@
 # lab2
-## Скачайте node с официального сайта https://nodejs.org/en/download
+## Скачайте node с официального [сайта](https://nodejs.org/en/download)
   Проверьте правильность установки командами:
   ```
   npm -v
