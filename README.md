@@ -13,4 +13,4 @@
   ```
   npm run start
   ```
-## Перейдите по [ссылке](http://localhost:3000)[.](https://arhont17.ru)
+## Перейдите по [ссылке](http://localhost:3000)[.](https://contract.mos.ru)
