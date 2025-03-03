@@ -5,7 +5,7 @@
   npm -v
   node -v
   ```
-## Установите git и скачайте репозиторий git clone
+## Установите [git](https://git-scm.com/downloads) и скачайте репозиторий git clone:
   ```
   git clone https://github.com/GDJ4/lab2.git
   ```
